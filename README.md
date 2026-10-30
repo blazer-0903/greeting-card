@@ -8,3 +8,6 @@ The components used: <br>
 * LED (yellow) <br>
 * Copper sheet <br>
 
+# About the circuit 
+The circuit was created and the simulation was simulated in Tinkercad. The link for the site is given below: <br> 
+* [https://www.tinkercad.com/things/dgS0K5572N4-shiny-lahdi]
