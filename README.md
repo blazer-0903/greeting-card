@@ -18,5 +18,12 @@ The image of the circuit <br>
 # The images of the product 
 Two images of the is given. One image is the unlit image and the other is the lighten up image of the product. <br>
 * The unlit image <br>
+<img width="601.5" height="459" alt="Screenshot 2026-10-30 111043" src="https://github.com/user-attachments/assets/f69c485e-4d06-4ceb-a29c-8f1dd92894db" />
 
-* The lighten up image                
+* The lighten up image   
+<img width="601.5" height="459" alt="Screenshot 2026-10-30 111344" src="https://github.com/user-attachments/assets/21ab4ec2-c541-446d-a6b4-6e7a71e3d227" />
+
+# Instructions 
+* To turn on the LED simply apply a little bit of pressure on the folded edge of the product to complete the circuit and the LED will light up. To turn off the LED simply release the pressure disconnect the circuit and the LED will turn off.
+
+# Contributors 
