@@ -11,3 +11,6 @@ The components used: <br>
 # About the circuit 
 The circuit was created and the simulation was simulated in Tinkercad. The link for the site is given below: <br> 
 * [https://www.tinkercad.com/things/dgS0K5572N4-shiny-lahdi]
+
+The image of the circuit <br>
+<img width="1536" height="632" alt="Shiny Lahdi" src="https://github.com/user-attachments/assets/608c671d-e1e7-48f8-911b-33a6477e3308" />
