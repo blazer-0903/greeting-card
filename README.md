@@ -1,5 +1,5 @@
 # Greeting Card 
-A simple led greeting card
+A simple LED greeting card
 
 # About the product 
 The product is a simple LED greeting card made with simple components easy enough that kids can make it themselves. <br> 
@@ -26,4 +26,4 @@ Two images of the is given. One image is the unlit image and the other is the li
 # Instructions 
 * To turn on the LED simply apply a little bit of pressure on the folded edge of the product to complete the circuit and the LED will light up. To turn off the LED simply release the pressure disconnect the circuit and the LED will turn off.
 
-# Contributors 
+# 👨‍💻 Contributors
