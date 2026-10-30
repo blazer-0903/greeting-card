@@ -28,6 +28,7 @@ Two images of the is given. One image is the unlit image and the other is the li
 
 # 👨‍💻 Contributors
 <a href="https://github.com/blazer-0903">
-  <img width="42" height="42" alt="dp" src="https://github.com/user-attachments/assets/3d181a83-2592-463d-bb4f-69c81b18df6c" />
+  <img width="42" height="42" alt="dp" src="https://github.com/user-attachments/assets/3d181a83-2592-463d-bb4f-69c81b18df6c" /> </a> <br>
+  blazer-0903
 
 # Thank You
