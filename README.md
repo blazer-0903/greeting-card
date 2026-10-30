@@ -24,9 +24,10 @@ Two images of the is given. One image is the unlit image and the other is the li
 <img width="601.5" height="459" alt="Screenshot 2026-10-30 111344" src="https://github.com/user-attachments/assets/21ab4ec2-c541-446d-a6b4-6e7a71e3d227" />
 
 # Instructions 
-* To turn on the LED simply apply a little bit of pressure on the folded edge of the product to complete the circuit and the LED will light up. To turn off the LED simply release the pressure disconnect the circuit and the LED will turn off.
+* To turn on the LED simply apply a little bit of pressure on the folded edge of the product to complete the circuit and the LED will light up. To turn off the LED simply release the pressure disconnecting the circuit and the LED will turn off.
 
 # 👨‍💻 Contributors
 <a href="https://github.com/blazer-0903">
-  <img width="42" height="42" alt="dp" src="https://github.com/user-attachments/assets/641da0e2-c2a8-4d93-9b02-100b3c8521ed" />
-      
+  <img width="42" height="42" alt="dp" src="https://github.com/user-attachments/assets/3d181a83-2592-463d-bb4f-69c81b18df6c" />
+
+# Thank You
